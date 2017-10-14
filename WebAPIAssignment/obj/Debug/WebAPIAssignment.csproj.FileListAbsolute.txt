@@ -94,3 +94,8 @@ C:\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.dll
 C:\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.pdb
 C:\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.Migrations.Initialization.resources
 C:\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.csproj.GenerateResource.Cache
+C:\repos\WebAPIAssignment\WebAPIAssignment\bin\System.Net.Http.Formatting.dll
+C:\repos\WebAPIAssignment\WebAPIAssignment\bin\System.Web.Http.dll
+C:\repos\WebAPIAssignment\WebAPIAssignment\bin\System.Net.Http.Formatting.xml
+C:\repos\WebAPIAssignment\WebAPIAssignment\bin\System.Web.Http.xml
+C:\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.Migrations.AddedOrders.resources
